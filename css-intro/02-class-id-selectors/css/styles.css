@@ -1,11 +1,11 @@
 .odd-numbers {
-    background-color: lightpink;
+    background-color: #f4b1b1;
     font-family: Verdana, DejaVu Sans, sans-serif;
 
 }
 
 #number-2 {
-    color: blue;
+    color: #1200b5;
     font-size: 36px;
 
 }
@@ -16,7 +16,7 @@
 }
 
 #number-4 {
-    background-color: lightgreen;
+    background-color: #88ff88;
     font-weight: bold;
     font-size: 24px;
 }
